@@ -38,8 +38,8 @@ The goal of this competition is to detect and classify seizures and other types 
 
 ## Experiment 2: Using Resnet34d: LB: 0.47
 
-## To Do: 16032024
-**Compare the first two submission and see what is the difference.**
+## To Do: 17032024
+**Compare submissions and see what is the difference.**
 
 1. For the first submission, I used CATBoost starter which use tabular information only.: LB: 0.81
 2. For the second submission, CATBoost with minor optimization: LB: 0.67
